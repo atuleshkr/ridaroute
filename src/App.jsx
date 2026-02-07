@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { 
   Search, MapPin, Star, Navigation, Users, Calendar, ArrowRight, Filter, TrendingUp,
   ArrowLeft, Share2, Bookmark, AlertCircle, ThumbsUp, User, Camera, ChevronDown,
-  Route as RouteIcon, Fuel, Coffee, Hospital, Wind, Sun, Cloud, Droplets,
+   Fuel, Coffee, Wind, Sun, Cloud, Droplets,
   CheckCircle, XCircle, AlertTriangle, MessageSquare, Clock
 } from 'lucide-react';
 
